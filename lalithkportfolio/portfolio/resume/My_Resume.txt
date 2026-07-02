@@ -1,0 +1,8 @@
+Place My resume PDF in this folder and name it exactly:
+
+Lalith_K_Resume.pdf
+
+The "Download Resume" button on the site already links to:
+resume/Lalith_K_Resume.pdf
+
+So once you add the file here with that exact name, the button will work immediately — no code changes needed.
